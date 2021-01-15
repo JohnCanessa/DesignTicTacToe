@@ -19,7 +19,7 @@ as high as 100x100 spaces.
 If you are interested in my approach and comments I invite you to
 visit the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/01/16/design-tic-tac-toe-in-java/
 
 Keep on reading and experimenting. It is the best way to learn.
 
